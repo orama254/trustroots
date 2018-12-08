@@ -2,5 +2,6 @@
 
 bin/admin
 deploy
+migrations/archived
 public
 scripts
