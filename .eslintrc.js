@@ -1,5 +1,3 @@
-/** @format */
-
 const semver = require('semver');
 
 // Converts semver range `~16.6.0` to strict version `16.6.0`
