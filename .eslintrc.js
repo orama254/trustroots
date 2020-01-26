@@ -32,14 +32,6 @@ const rules = {
   'one-var': [2, 'never'],
   'one-var-declaration-per-line': [2, 'always'],
   semi: [2, 'always'],
-  'space-before-function-paren': [
-    'error',
-    {
-      anonymous: 'always',
-      named: 'never',
-      asyncArrow: 'always',
-    },
-  ],
   'space-in-parens': [2, 'never'],
   'spaced-comment': [2, 'always'],
   strict: [2, 'never'],
