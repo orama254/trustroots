@@ -1,8 +1,6 @@
 singleQuote: true
 trailingComma: all
 jsxBracketSameLine: false
-insertPragma: true
-requirePragma: true
 semi: true
 arrowParens: avoid
 bracketSpacing: true
